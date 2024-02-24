@@ -1,0 +1,15 @@
+{
+  "name": "que-3",
+  "version": "1.0.0",
+  "description": "3. Third Party Module: random number generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sandesh pawar",
+  "license": "ISC",
+  "dependencies": {
+    "random": "^4.1.0",
+    "random-js": "^2.1.0"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "que-1-local-module-calculator",
+  "version": "1.0.0",
+  "description": "Ait Task - Que Local Module Caluculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sandesh",
+  "license": "ISC"
+}

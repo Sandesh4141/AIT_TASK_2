@@ -1,0 +1,14 @@
+{
+  "name": "que-9",
+  "version": "1.0.0",
+  "description": "9. Third-Party Module: Generating UUIDs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sandesh Pawar",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^9.0.1"
+  }
+}
